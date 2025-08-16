@@ -11,7 +11,7 @@ const categories = [
   { id: 4, name: "Camera", icon: <FaCamera size={30} /> },
   { id: 5, name: "HeadPhones", icon: <FaHeadphones size={30} /> },
   { id: 6, name: "Gaming", icon: <FaGamepad size={30} /> },
-   { id: 6, name: "Gaming", icon: <FaGamepad size={30} /> },
+   { id: 7, name: "Gaming", icon: <FaGamepad size={30} /> },
 ];
 
 export default function Category() {
