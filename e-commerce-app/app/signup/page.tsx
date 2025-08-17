@@ -13,7 +13,7 @@ export default function Signup() {
          <div className="flex flex-1">
         <div className="w-1/2 flex justify-center items-center bg-[#E3F6F5]">
           <Image
-            src="/images/iphone14.png" 
+            src="/iphone14.png" 
             alt="Shopping Cart"
             width={500}
             height={500}
