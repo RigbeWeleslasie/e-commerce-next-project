@@ -21,7 +21,7 @@ const featuresData = [
 ];
 const Features = () => {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-between p-8 space-y-8 md:space-y-0 md:space-x-8">
+    <div className="flex flex-col md:flex-row items-center justify-between p-8 space-y-8 md:space-y-0 md:space-x-8 py-20">
       {featuresData.map((feature, index) => (
         <div key={index} className="flex flex-col items-center text-center max-w-xs">
           <div className="bg-gray-800 rounded-full p-4 mb-4">

@@ -78,7 +78,7 @@ export default function ProductGrid() {
         {products.map((product) => (
           <div
             key={product.id}
-            className="relative bg-gray-50 rounded-lg p-4 shadow hover:shadow-lg transition"
+            className="relative bg-white rounded-lg p-4 "
           >
             {product.isNew && (
               <span className="absolute top-3 left-3 bg-green-400 text-white text-xs font-bold px-2 py-1 rounded">

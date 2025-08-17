@@ -85,7 +85,7 @@ export default function ExploringProduct() {
               <img
                 src={product.image}
                 alt={product.name}
-                className="h-48 object-contain rounded-2xl shadow p-4 bg-gray-100"
+                className="h-48 object-contain rounded-2xl shadow p-4"
               />
               <div className="absolute top-3 right-3 flex flex-col gap-2">
                 <button className="bg-white p-1 rounded-full shadow hover:bg-gray-100">
